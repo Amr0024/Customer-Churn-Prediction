@@ -40,18 +40,23 @@ Customer churn is one of the most costly problems in subscription-based business
 ## Screenshots
 
 ![Churn by Contract Type](images/02_churn_by_contract.png)
+
 *Month-to-month customers churn at 14x the rate of two-year contract holders*
 
 ![ROC Curve](images/07_roc_curve.png)
+
 *Gradient Boosting achieves ~0.90 ROC-AUC vs ~0.78 for the logistic regression baseline*
 
 ![Feature Importance](images/08_feature_importance.png)
+
 *Top predictors: tenure, monthly charges, contract type, and engineered ratio features*
 
 ![Customer Risk Segments](images/11_customer_segments_pca.png)
+
 *K-Means clustering separates 7,000+ customers into 4 actionable risk tiers*
 
 ![Churn by Risk Tier](images/12_churn_by_risk_tier.png)
+
 *Critical Risk segment shows dramatically higher churn — enabling targeted intervention*
 
 ---
