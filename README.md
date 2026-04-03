@@ -40,7 +40,6 @@ Customer churn is one of the most costly problems in subscription-based business
 ## Screenshots
 
 ![Churn by Contract Type](images/02_churn_by_contract.png)
-
 *Month-to-month customers churn at 14x the rate of two-year contract holders*
 
 ![ROC Curve](images/07_roc_curve.png)
